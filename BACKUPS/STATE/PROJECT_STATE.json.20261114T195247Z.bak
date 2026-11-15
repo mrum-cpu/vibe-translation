@@ -1,0 +1,18 @@
+{
+  "project_id": "WINGATE_PMJ-2025",
+  "book_title": "Palestine, Mesopotamia and the Jews — The Spiritual Side of History",
+  "source_language": "English",
+  "target_language": "Arabic",
+  "total_units": 93,
+  "translated_units": 69,
+  "qa_passed_units": 59,
+  "approved_units": 0,
+  "final_units": 0,
+  "last_final_unit": "",
+  "next_unit": "U0001",
+  "project_status": "TRANSLATING",
+  "glossary_version": "1.0",
+  "style_guide_version": "1.0",
+  "last_package_id": "PKG-WPMJ-068",
+  "last_updated": "2026-11-14T19:51:58Z"
+}

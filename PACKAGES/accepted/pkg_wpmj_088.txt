@@ -1,0 +1,41 @@
+PACKAGE_START
+
+PACKAGE_ID: PKG-WPMJ-088
+BOOK_ID: WINGATE_PMJ
+CHAPTER_ID: CONCLUSION
+UNIT_START: U0089
+UNIT_END: U0089
+
+SOURCE_RANGE: pages 320-320 (printed 292-292)
+SOURCE_WORD_COUNT: 97
+
+TRANSLATION_STATUS: TRANSLATED
+
+TRANSLATION_START
+كل معارك أورشليم ومذابحها وجريماتها الكثيرة، وكل موضعٍ من مواضعها الملطخة بالخطية، وكل الرعباوات والكراهيات التي شهدتها تلالها، مُحيت من الذاكرة ببقعةٍ واحدة ملطخةٍ بالدماء مات فيها أمير السلام لكيلا تكون الحروب بعد، ولكي يكون المحبة ظافرة على الكراهية. إلى أين توجّهت أنظار أولادنا في كل الجبهات؟ ومن أجل من قاتلوا؟ أين يمكن أن يُوقَّع السلام الذي هو من عند الله والمهدا إلى الله، إلا في ظل الصليب، على جبل الزيتون، في أورشليم؟ انتهى.
+TRANSLATION_END
+
+GLOSSARY_START
+| ORIGINAL | ARABIC | ALTERNATIVE | NOTES | CONTEXT | SOURCE |
+| Prince of Peace | أمير السلام | - | لغة إشعيا ٩: ٦ | نهاية الخاتمة | - |
+GLOSSARY_END
+
+NAME_REGISTER_START
+| ORIGINAL | ARABIC | ALTERNATIVE | NOTES |
+| - | - | - | لا أسماء جديدة في هذه الوحدة |
+NAME_REGISTER_END
+
+DECISIONS_START
+| DEC-0172 | «FINIS» | ١) انتهى ٢) تمّت | انتهى | سطر الختام المطبوع في نهاية الخاتمة | U0089 |
+DECISIONS_END
+
+ANOMALIES_START
+| ANOM-0181 | U0089 | مقطوعة بمحرف ¬: «abomina¬ tions»؛ «WTom» = Whom (محرف W شارد) | تُصحَّح | - |
+| ANOM-0182 | U0089 | سطر «FINIS.» الختامي يُترجم «انتهى.» ويُحفظ موقعه في نهاية الخاتمة؛ لا ترويسة جارية في الصفحة الأخيرة | تُصحَّح | - |
+ANOMALIES_END
+
+QA_START
+| U0089 | PASS | PASS | PASS | PASS | PASS | PASS | QA_PASSED | 2025-01-01 |
+QA_END
+
+PACKAGE_END

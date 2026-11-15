@@ -1,0 +1,25 @@
+# SOURCE_ANOMALIES.md — شذوذات المصدر
+> تلف، صفحات غير مقروءة، نقص، تعارض نسخ، ترقيم معيب.
+| ANOMALY_ID | UNIT / PAGES | DESCRIPTION | IMPACT | STATUS | DATE |
+|---|---|---|---|---|---|
+| ANOM-0001 | ص1 | ختم مكتبة مشوَّه على صفحة العنوان ("Division J) S f 49 Section") غير قابل للقراءة الكاملة | لا يؤثر في المتن | موثّق |
+| ANOM-0002 | ص1-13 | طبقة نصية فيها شوائب OCR: "SIDI" بدل "SIDE"، "1 WINGATE" بدل "WINGATE"، "Effeet" بدل "Effect"، "*9" بدل "29"، "19°" بدل "190"، "J31" بدل "131"، "12S" بدل "128"، "Llassa" بدل "Lhassa" | صُحِّحت في الترجمة وفق السياق | مصحَّح |
+| ANOM-0003 | ص3،4،8،9،15،85،91،96 | صفحات شبه فارغة (صور/فواصل) لا نص يُترجم فيها | لا يؤثر في الاكتمال النصي | موثّق |
+| ANOM-0004 | ص13 | رقم صفحة الفصل الرابع عشر في جدول المحتويات ناقص في المصدر | أُشير إليه بـ«ناقص في المصدر» | موثّق |
+| ANOM-0025 | U0011 | ترويسة «42 The Path which led to War.» ملتصقة بمنتصف النص + ترويسة «threats which Russia and France on the Indian frontiers. 43» | تُحذف | - |
+| ANOM-0026 | U0011 | محارف قطع أسطر «\u00ac» متبقية من المسح + «favourable to\u201e» (فاصلة مقلوبة) | تُنظَّف | - |
+| ANOM-0027 | U0012 | ترويستان: «44 The Path which led to IVar.» (خطأ مسح War→IVar) و«46 The Path which led to IVar.» | تُحذف | - |
+| ANOM-0028 | U0012 | أخطاء مسح: «P'rom» = From، «FVance» = France، «The Treaty was_signed» (مسافة ملتصقة) | تُصحَّح | - |
+| ANOM-0029 | U0013 | ترويستان: «Britain enters into friendship with France. 47» و«48 The Path zuhick led to War.» (خطأ مسح which→zuhick) و«Britain enters into friendship with France. 49» | تُحذف | - |
+| ANOM-0030 | U0013 | أخطاء مسح: «Kishenefif» = Kishinev، «pefsuaded» = persuaded، «o under Father Gapon» حرف شارد، «^ German» رمز شارد | تُصحَّح | - |
+| ANOM-0031 | U0014 | ترويسات: «D 5o The Path which ltd to War.» (٥٠→٥o وled→ltd) و«52 The Path which led to War.» و«d 2» و«British approach to Germany. 53» | تُحذَف | - |
+| ANOM-0032 | U0014 | أخطاء مسح: «fiiendship» = friendship، «re¬ moved» كلمة مقطوعة، «de- British approach to Germany. 53 dared» انقسام declared عبر الصفحات | تُصحَّح | - |
+| ANOM-0033 | U0015 | ترويسات: «54 The Path which led to War.» و«British approach to Germany. ss» (٥٣→ss) و«56 The Path which ltd to IVar.» | تُحذَف | - |
+| ANOM-0034 | U0015 | وصل مقاطع مقطوعة بحرف ¬: «sacri¬ fices»، «demo¬ cratic»، «pro¬ tection»، «un¬ questioned»، «push¬ ing»، «pro¬ ject»، «Meso¬ potamia» | تُصحَّح | - |
+| ANOM-0035 | U0016 | ترويسات: «British approach to Germany. 57» و«58 The Path which led to War.» و«m» شاردة | تُحذَف | - |
+| ANOM-0036 | U0016 | أخطاء مسح: «Por all this» = For all this، «Lichntfwsky» = Lichnowsky، «bv one-third» = by one-third، «1898» مسروسة «١٨٩8»، وصل مقاطع بحرف ¬ | تُصحَّح | - |
+| ANOM-0037 | U0017 | ترويسات: «British approach to Germany. 59» و«6o The Path which led to War.» و«62 The Path which led to Way.» (War→Way) | تُحذَف | - |
+| ANOM-0038 | U0017 | أخطاء مسح: «phy¬ sical» كلمة مقطوعة، «Otto* man» انقسام بعلامة شاردة، «considera¬ tions» كلمة مقطوعة | تُصحَّح | - |
+| ANOM-0039 | U0018 | ترويسات: «Ger??iany prefers War. 63» (Germany→Ger??iany) و«64 The Path which led to War.» و«to Germany prefers War. 65» | تُحذَف | - |
+| ANOM-0040 | U0018 | أخطاء مسح: «the brench naval ports» = the French، «time will reveal..» نقطتان، «mis- sive» كلمة مقطوعة، هامش «* See also German, Slav and Magyar...» محفوظ في موضع الإشارة | تُصحَّح | - |
+| ANOM-0041 | U0019 | ترويسات: «E 66 The Path which led to War.» و«68 The Path which led to War.» و«e 2» | تُحذَف | - |

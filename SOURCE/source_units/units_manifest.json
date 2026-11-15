@@ -1,0 +1,915 @@
+{
+ "book_id": "WINGATE_PMJ",
+ "source_file": "source_original.pdf",
+ "total_pages": 97,
+ "unit_words": 700,
+ "created": "2026-11-12T18:20:49Z",
+ "units": [
+  {
+   "unit_id": "U0001",
+   "source_pages": [
+    1,
+    13
+   ],
+   "word_count": 700,
+   "char_count": 4130
+  },
+  {
+   "unit_id": "U0002",
+   "source_pages": [
+    13,
+    23
+   ],
+   "word_count": 700,
+   "char_count": 3894
+  },
+  {
+   "unit_id": "U0003",
+   "source_pages": [
+    23,
+    26
+   ],
+   "word_count": 700,
+   "char_count": 4172
+  },
+  {
+   "unit_id": "U0004",
+   "source_pages": [
+    26,
+    29
+   ],
+   "word_count": 700,
+   "char_count": 4231
+  },
+  {
+   "unit_id": "U0005",
+   "source_pages": [
+    29,
+    32
+   ],
+   "word_count": 700,
+   "char_count": 4167
+  },
+  {
+   "unit_id": "U0006",
+   "source_pages": [
+    32,
+    36
+   ],
+   "word_count": 700,
+   "char_count": 4225
+  },
+  {
+   "unit_id": "U0007",
+   "source_pages": [
+    36,
+    39
+   ],
+   "word_count": 700,
+   "char_count": 4260
+  },
+  {
+   "unit_id": "U0008",
+   "source_pages": [
+    39,
+    42
+   ],
+   "word_count": 700,
+   "char_count": 4132
+  },
+  {
+   "unit_id": "U0009",
+   "source_pages": [
+    42,
+    46
+   ],
+   "word_count": 700,
+   "char_count": 4273
+  },
+  {
+   "unit_id": "U0010",
+   "source_pages": [
+    46,
+    48
+   ],
+   "word_count": 700,
+   "char_count": 4144
+  },
+  {
+   "unit_id": "U0011",
+   "source_pages": [
+    48,
+    51
+   ],
+   "word_count": 700,
+   "char_count": 4264
+  },
+  {
+   "unit_id": "U0012",
+   "source_pages": [
+    51,
+    54
+   ],
+   "word_count": 700,
+   "char_count": 4165
+  },
+  {
+   "unit_id": "U0013",
+   "source_pages": [
+    54,
+    57
+   ],
+   "word_count": 700,
+   "char_count": 4091
+  },
+  {
+   "unit_id": "U0014",
+   "source_pages": [
+    57,
+    61
+   ],
+   "word_count": 700,
+   "char_count": 4154
+  },
+  {
+   "unit_id": "U0015",
+   "source_pages": [
+    61,
+    64
+   ],
+   "word_count": 700,
+   "char_count": 4182
+  },
+  {
+   "unit_id": "U0016",
+   "source_pages": [
+    64,
+    66
+   ],
+   "word_count": 700,
+   "char_count": 4215
+  },
+  {
+   "unit_id": "U0017",
+   "source_pages": [
+    66,
+    70
+   ],
+   "word_count": 700,
+   "char_count": 4148
+  },
+  {
+   "unit_id": "U0018",
+   "source_pages": [
+    70,
+    73
+   ],
+   "word_count": 700,
+   "char_count": 4114
+  },
+  {
+   "unit_id": "U0019",
+   "source_pages": [
+    73,
+    77
+   ],
+   "word_count": 700,
+   "char_count": 4020
+  },
+  {
+   "unit_id": "U0020",
+   "source_pages": [
+    77,
+    79
+   ],
+   "word_count": 700,
+   "char_count": 4101
+  },
+  {
+   "unit_id": "U0021",
+   "source_pages": [
+    79,
+    83
+   ],
+   "word_count": 700,
+   "char_count": 4203
+  },
+  {
+   "unit_id": "U0022",
+   "source_pages": [
+    83,
+    88
+   ],
+   "word_count": 700,
+   "char_count": 4144
+  },
+  {
+   "unit_id": "U0023",
+   "source_pages": [
+    88,
+    94
+   ],
+   "word_count": 700,
+   "char_count": 4060
+  },
+  {
+   "unit_id": "U0024",
+   "source_pages": [
+    94,
+    97
+   ],
+   "word_count": 345,
+   "char_count": 2079
+  },
+  {
+   "unit_id": "U0025",
+   "source_pages": [
+    98,
+    101
+   ],
+   "word_count": 700,
+   "char_count": 4291,
+   "section": 2
+  },
+  {
+   "unit_id": "U0026",
+   "source_pages": [
+    102,
+    104
+   ],
+   "word_count": 700,
+   "char_count": 4269,
+   "section": 2
+  },
+  {
+   "unit_id": "U0027",
+   "source_pages": [
+    104,
+    107
+   ],
+   "word_count": 700,
+   "char_count": 4220,
+   "section": 2
+  },
+  {
+   "unit_id": "U0028",
+   "source_pages": [
+    107,
+    110
+   ],
+   "word_count": 700,
+   "char_count": 4082,
+   "section": 2
+  },
+  {
+   "unit_id": "U0029",
+   "source_pages": [
+    110,
+    113
+   ],
+   "word_count": 700,
+   "char_count": 3903,
+   "section": 2
+  },
+  {
+   "unit_id": "U0030",
+   "source_pages": [
+    113,
+    116
+   ],
+   "word_count": 700,
+   "char_count": 4016,
+   "section": 2
+  },
+  {
+   "unit_id": "U0031",
+   "source_pages": [
+    116,
+    120
+   ],
+   "word_count": 700,
+   "char_count": 4179,
+   "section": 2
+  },
+  {
+   "unit_id": "U0032",
+   "source_pages": [
+    120,
+    124
+   ],
+   "word_count": 700,
+   "char_count": 3800,
+   "section": 2
+  },
+  {
+   "unit_id": "U0033",
+   "source_pages": [
+    124,
+    127
+   ],
+   "word_count": 700,
+   "char_count": 3788,
+   "section": 2
+  },
+  {
+   "unit_id": "U0034",
+   "source_pages": [
+    127,
+    130
+   ],
+   "word_count": 700,
+   "char_count": 3851,
+   "section": 2
+  },
+  {
+   "unit_id": "U0035",
+   "source_pages": [
+    130,
+    132
+   ],
+   "word_count": 700,
+   "char_count": 3956,
+   "section": 2
+  },
+  {
+   "unit_id": "U0036",
+   "source_pages": [
+    132,
+    135
+   ],
+   "word_count": 700,
+   "char_count": 3880,
+   "section": 2
+  },
+  {
+   "unit_id": "U0037",
+   "source_pages": [
+    135,
+    137
+   ],
+   "word_count": 700,
+   "char_count": 3729,
+   "section": 2
+  },
+  {
+   "unit_id": "U0038",
+   "source_pages": [
+    137,
+    141
+   ],
+   "word_count": 700,
+   "char_count": 3884,
+   "section": 2
+  },
+  {
+   "unit_id": "U0039",
+   "source_pages": [
+    141,
+    146
+   ],
+   "word_count": 700,
+   "char_count": 3833,
+   "section": 2
+  },
+  {
+   "unit_id": "U0040",
+   "source_pages": [
+    146,
+    149
+   ],
+   "word_count": 700,
+   "char_count": 3938,
+   "section": 2
+  },
+  {
+   "unit_id": "U0041",
+   "source_pages": [
+    149,
+    152
+   ],
+   "word_count": 700,
+   "char_count": 3884,
+   "section": 2
+  },
+  {
+   "unit_id": "U0042",
+   "source_pages": [
+    152,
+    159
+   ],
+   "word_count": 700,
+   "char_count": 3793,
+   "section": 2
+  },
+  {
+   "unit_id": "U0043",
+   "source_pages": [
+    159,
+    160
+   ],
+   "word_count": 458,
+   "char_count": 2349,
+   "section": 2
+  },
+  {
+   "unit_id": "U0044",
+   "source_pages": [
+    161,
+    167
+   ],
+   "word_count": 700,
+   "char_count": 3972,
+   "section": 3
+  },
+  {
+   "unit_id": "U0045",
+   "source_pages": [
+    167,
+    171
+   ],
+   "word_count": 700,
+   "char_count": 4138,
+   "section": 3
+  },
+  {
+   "unit_id": "U0046",
+   "source_pages": [
+    171,
+    175
+   ],
+   "word_count": 700,
+   "char_count": 4196,
+   "section": 3
+  },
+  {
+   "unit_id": "U0047",
+   "source_pages": [
+    175,
+    178
+   ],
+   "word_count": 700,
+   "char_count": 4208,
+   "section": 3
+  },
+  {
+   "unit_id": "U0048",
+   "source_pages": [
+    178,
+    181
+   ],
+   "word_count": 700,
+   "char_count": 4011,
+   "section": 3
+  },
+  {
+   "unit_id": "U0049",
+   "source_pages": [
+    181,
+    184
+   ],
+   "word_count": 700,
+   "char_count": 4142,
+   "section": 3
+  },
+  {
+   "unit_id": "U0050",
+   "source_pages": [
+    184,
+    187
+   ],
+   "word_count": 700,
+   "char_count": 4172,
+   "section": 3
+  },
+  {
+   "unit_id": "U0051",
+   "source_pages": [
+    187,
+    190
+   ],
+   "word_count": 700,
+   "char_count": 3893,
+   "section": 3
+  },
+  {
+   "unit_id": "U0052",
+   "source_pages": [
+    190,
+    192
+   ],
+   "word_count": 670,
+   "char_count": 3871,
+   "section": 3
+  },
+  {
+   "unit_id": "U0053",
+   "source_pages": [
+    193,
+    199
+   ],
+   "word_count": 747,
+   "char_count": 4193,
+   "section": 4
+  },
+  {
+   "unit_id": "U0054",
+   "source_pages": [
+    200,
+    202
+   ],
+   "word_count": 707,
+   "char_count": 4048,
+   "section": 4
+  },
+  {
+   "unit_id": "U0055",
+   "source_pages": [
+    203,
+    205
+   ],
+   "word_count": 631,
+   "char_count": 3587,
+   "section": 4
+  },
+  {
+   "unit_id": "U0056",
+   "source_pages": [
+    206,
+    208
+   ],
+   "word_count": 744,
+   "char_count": 3963,
+   "section": 4
+  },
+  {
+   "unit_id": "U0057",
+   "source_pages": [
+    209,
+    211
+   ],
+   "word_count": 721,
+   "char_count": 4065,
+   "section": 4
+  },
+  {
+   "unit_id": "U0058",
+   "source_pages": [
+    212,
+    214
+   ],
+   "word_count": 686,
+   "char_count": 3846,
+   "section": 4
+  },
+  {
+   "unit_id": "U0059",
+   "source_pages": [
+    215,
+    217
+   ],
+   "word_count": 691,
+   "char_count": 3838,
+   "section": 4
+  },
+  {
+   "unit_id": "U0060",
+   "source_pages": [
+    218,
+    224
+   ],
+   "word_count": 700,
+   "char_count": 3997,
+   "section": 5
+  },
+  {
+   "unit_id": "U0061",
+   "source_pages": [
+    224,
+    227
+   ],
+   "word_count": 700,
+   "char_count": 3939,
+   "section": 5
+  },
+  {
+   "unit_id": "U0062",
+   "source_pages": [
+    227,
+    233
+   ],
+   "word_count": 700,
+   "char_count": 3897,
+   "section": 5
+  },
+  {
+   "unit_id": "U0063",
+   "source_pages": [
+    233,
+    236
+   ],
+   "word_count": 700,
+   "char_count": 4070,
+   "section": 5
+  },
+  {
+   "unit_id": "U0064",
+   "source_pages": [
+    236,
+    238
+   ],
+   "word_count": 700,
+   "char_count": 4282,
+   "section": 5
+  },
+  {
+   "unit_id": "U0065",
+   "source_pages": [
+    238,
+    243
+   ],
+   "word_count": 700,
+   "char_count": 4200,
+   "section": 5
+  },
+  {
+   "unit_id": "U0066",
+   "source_pages": [
+    243,
+    246
+   ],
+   "word_count": 700,
+   "char_count": 4164,
+   "section": 5
+  },
+  {
+   "unit_id": "U0067",
+   "source_pages": [
+    246,
+    253
+   ],
+   "word_count": 700,
+   "char_count": 4075,
+   "section": 5
+  },
+  {
+   "unit_id": "U0068",
+   "source_pages": [
+    253,
+    255
+   ],
+   "word_count": 700,
+   "char_count": 3940,
+   "section": 5
+  },
+  {
+   "unit_id": "U0069",
+   "source_pages": [
+    255,
+    258
+   ],
+   "word_count": 700,
+   "char_count": 4162,
+   "section": 5
+  },
+  {
+   "unit_id": "U0070",
+   "source_pages": [
+    258,
+    262
+   ],
+   "word_count": 700,
+   "char_count": 4089,
+   "section": 5
+  },
+  {
+   "unit_id": "U0071",
+   "source_pages": [
+    262,
+    263
+   ],
+   "word_count": 441,
+   "char_count": 2554,
+   "section": 5
+  },
+  {
+   "unit_id": "U0072",
+   "source_pages": [
+    264,
+    268
+   ],
+   "word_count": 710,
+   "char_count": 4105,
+   "section": 6
+  },
+  {
+   "unit_id": "U0073",
+   "source_pages": [
+    268,
+    271
+   ],
+   "word_count": 709,
+   "char_count": 4113,
+   "section": 6
+  },
+  {
+   "unit_id": "U0074",
+   "source_pages": [
+    271,
+    277
+   ],
+   "word_count": 711,
+   "char_count": 4176,
+   "section": 6
+  },
+  {
+   "unit_id": "U0075",
+   "source_pages": [
+    277,
+    280
+   ],
+   "word_count": 708,
+   "char_count": 4096,
+   "section": 6
+  },
+  {
+   "unit_id": "U0076",
+   "source_pages": [
+    280,
+    283
+   ],
+   "word_count": 716,
+   "char_count": 4202,
+   "section": 6
+  },
+  {
+   "unit_id": "U0077",
+   "source_pages": [
+    283,
+    286
+   ],
+   "word_count": 703,
+   "char_count": 3942,
+   "section": 6
+  },
+  {
+   "unit_id": "U0078",
+   "source_pages": [
+    286,
+    289
+   ],
+   "word_count": 709,
+   "char_count": 4090,
+   "section": 6
+  },
+  {
+   "unit_id": "U0079",
+   "source_pages": [
+    289,
+    292
+   ],
+   "word_count": 719,
+   "char_count": 4056,
+   "section": 6
+  },
+  {
+   "unit_id": "U0080",
+   "source_pages": [
+    292,
+    295
+   ],
+   "word_count": 726,
+   "char_count": 4075,
+   "section": 6
+  },
+  {
+   "unit_id": "U0081",
+   "source_pages": [
+    297,
+    301
+   ],
+   "word_count": 701,
+   "char_count": 3901,
+   "section": 6
+  },
+  {
+   "unit_id": "U0082",
+   "source_pages": [
+    301,
+    304
+   ],
+   "word_count": 710,
+   "char_count": 4032,
+   "section": 6
+  },
+  {
+   "unit_id": "U0083",
+   "source_pages": [
+    304,
+    307
+   ],
+   "word_count": 706,
+   "char_count": 4240,
+   "section": 6
+  },
+  {
+   "unit_id": "U0084",
+   "source_pages": [
+    307,
+    310
+   ],
+   "word_count": 718,
+   "char_count": 4269,
+   "section": 6
+  },
+  {
+   "unit_id": "U0085",
+   "source_pages": [
+    310,
+    312
+   ],
+   "word_count": 703,
+   "char_count": 4233,
+   "section": 6
+  },
+  {
+   "unit_id": "U0086",
+   "source_pages": [
+    312,
+    315
+   ],
+   "word_count": 701,
+   "char_count": 3975,
+   "section": 6
+  },
+  {
+   "unit_id": "U0087",
+   "source_pages": [
+    315,
+    317
+   ],
+   "word_count": 708,
+   "char_count": 3967,
+   "section": 6
+  },
+  {
+   "unit_id": "U0088",
+   "source_pages": [
+    317,
+    320
+   ],
+   "word_count": 703,
+   "char_count": 3972,
+   "section": 6
+  },
+  {
+   "unit_id": "U0089",
+   "source_pages": [
+    320,
+    320
+   ],
+   "word_count": 97,
+   "char_count": 529,
+   "section": 6
+  },
+  {
+   "unit_id": "U0090",
+   "source_pages": [
+    321,
+    321
+   ],
+   "word_count": 700,
+   "char_count": 4556,
+   "section": 6
+  },
+  {
+   "unit_id": "U0091",
+   "source_pages": [
+    321,
+    321
+   ],
+   "word_count": 700,
+   "char_count": 4521,
+   "section": 6
+  },
+  {
+   "unit_id": "U0092",
+   "source_pages": [
+    321,
+    321
+   ],
+   "word_count": 699,
+   "char_count": 4619,
+   "section": 6
+  },
+  {
+   "unit_id": "U0093",
+   "source_pages": [
+    321,
+    321
+   ],
+   "word_count": 615,
+   "char_count": 3847,
+   "section": 6
+  }
+ ]
+}

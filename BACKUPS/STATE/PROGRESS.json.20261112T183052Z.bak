@@ -1,0 +1,139 @@
+{
+  "units": {
+    "U0001": {
+      "status": "TRANSLATED",
+      "history": [
+        {
+          "from": "INGESTED",
+          "to": "TRANSLATED",
+          "at": "2026-11-12T18:26:35Z"
+        }
+      ],
+      "package_id": "PKG-WPMJ-001",
+      "chapter_id": "FRONT+INTRO",
+      "translation_file": "U0001__U0002.translation.md"
+    },
+    "U0002": {
+      "status": "TRANSLATED",
+      "history": [
+        {
+          "from": "INGESTED",
+          "to": "TRANSLATED",
+          "at": "2026-11-12T18:26:35Z"
+        }
+      ],
+      "package_id": "PKG-WPMJ-001",
+      "chapter_id": "FRONT+INTRO",
+      "translation_file": "U0001__U0002.translation.md"
+    },
+    "U0003": {
+      "status": "TRANSLATED",
+      "history": [
+        {
+          "from": "INGESTED",
+          "to": "TRANSLATED",
+          "at": "2026-11-12T18:26:35Z"
+        }
+      ],
+      "package_id": "PKG-WPMJ-002",
+      "chapter_id": "CH-I+CH-II",
+      "translation_file": "U0003__U0003.translation.md"
+    },
+    "U0004": {
+      "status": "TRANSLATED",
+      "history": [
+        {
+          "from": "INGESTED",
+          "to": "TRANSLATED",
+          "at": "2026-11-12T18:28:14Z"
+        }
+      ],
+      "package_id": "PKG-WPMJ-003",
+      "chapter_id": "CH-II",
+      "translation_file": "U0004__U0004.translation.md"
+    },
+    "U0005": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0006": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0007": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0008": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0009": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0010": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0011": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0012": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0013": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0014": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0015": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0016": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0017": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0018": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0019": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0020": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0021": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0022": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0023": {
+      "status": "INGESTED",
+      "history": []
+    },
+    "U0024": {
+      "status": "INGESTED",
+      "history": []
+    }
+  },
+  "packages_accepted": 3,
+  "packages_rejected": 2,
+  "last_updated": "2026-11-12T18:30:40Z"
+}

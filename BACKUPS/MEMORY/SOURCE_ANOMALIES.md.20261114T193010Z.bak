@@ -1,0 +1,77 @@
+# SOURCE_ANOMALIES.md — شذوذات المصدر
+> تلف، صفحات غير مقروءة، نقص، تعارض نسخ، ترقيم معيب.
+| ANOMALY_ID | UNIT / PAGES | DESCRIPTION | IMPACT | STATUS | DATE |
+|---|---|---|---|---|---|
+| ANOM-0001 | ص1 | ختم مكتبة مشوَّه على صفحة العنوان ("Division J) S f 49 Section") غير قابل للقراءة الكاملة | لا يؤثر في المتن | موثّق |
+| ANOM-0002 | ص1-13 | طبقة نصية فيها شوائب OCR: "SIDI" بدل "SIDE"، "1 WINGATE" بدل "WINGATE"، "Effeet" بدل "Effect"، "*9" بدل "29"، "19°" بدل "190"، "J31" بدل "131"، "12S" بدل "128"، "Llassa" بدل "Lhassa" | صُحِّحت في الترجمة وفق السياق | مصحَّح |
+| ANOM-0003 | ص3،4،8،9،15،85،91،96 | صفحات شبه فارغة (صور/فواصل) لا نص يُترجم فيها | لا يؤثر في الاكتمال النصي | موثّق |
+| ANOM-0004 | ص13 | رقم صفحة الفصل الرابع عشر في جدول المحتويات ناقص في المصدر | أُشير إليه بـ«ناقص في المصدر» | موثّق |
+| ANOM-0025 | U0011 | ترويسة «42 The Path which led to War.» ملتصقة بمنتصف النص + ترويسة «threats which Russia and France on the Indian frontiers. 43» | تُحذف | - |
+| ANOM-0026 | U0011 | محارف قطع أسطر «\u00ac» متبقية من المسح + «favourable to\u201e» (فاصلة مقلوبة) | تُنظَّف | - |
+| ANOM-0027 | U0012 | ترويستان: «44 The Path which led to IVar.» (خطأ مسح War→IVar) و«46 The Path which led to IVar.» | تُحذف | - |
+| ANOM-0028 | U0012 | أخطاء مسح: «P'rom» = From، «FVance» = France، «The Treaty was_signed» (مسافة ملتصقة) | تُصحَّح | - |
+| ANOM-0029 | U0013 | ترويستان: «Britain enters into friendship with France. 47» و«48 The Path zuhick led to War.» (خطأ مسح which→zuhick) و«Britain enters into friendship with France. 49» | تُحذف | - |
+| ANOM-0030 | U0013 | أخطاء مسح: «Kishenefif» = Kishinev، «pefsuaded» = persuaded، «o under Father Gapon» حرف شارد، «^ German» رمز شارد | تُصحَّح | - |
+| ANOM-0031 | U0014 | ترويسات: «D 5o The Path which ltd to War.» (٥٠→٥o وled→ltd) و«52 The Path which led to War.» و«d 2» و«British approach to Germany. 53» | تُحذَف | - |
+| ANOM-0032 | U0014 | أخطاء مسح: «fiiendship» = friendship، «re¬ moved» كلمة مقطوعة، «de- British approach to Germany. 53 dared» انقسام declared عبر الصفحات | تُصحَّح | - |
+| ANOM-0033 | U0015 | ترويسات: «54 The Path which led to War.» و«British approach to Germany. ss» (٥٣→ss) و«56 The Path which ltd to IVar.» | تُحذَف | - |
+| ANOM-0034 | U0015 | وصل مقاطع مقطوعة بحرف ¬: «sacri¬ fices»، «demo¬ cratic»، «pro¬ tection»، «un¬ questioned»، «push¬ ing»، «pro¬ ject»، «Meso¬ potamia» | تُصحَّح | - |
+| ANOM-0035 | U0016 | ترويسات: «British approach to Germany. 57» و«58 The Path which led to War.» و«m» شاردة | تُحذَف | - |
+| ANOM-0036 | U0016 | أخطاء مسح: «Por all this» = For all this، «Lichntfwsky» = Lichnowsky، «bv one-third» = by one-third، «1898» مسروسة «١٨٩8»، وصل مقاطع بحرف ¬ | تُصحَّح | - |
+| ANOM-0037 | U0017 | ترويسات: «British approach to Germany. 59» و«6o The Path which led to War.» و«62 The Path which led to Way.» (War→Way) | تُحذَف | - |
+| ANOM-0038 | U0017 | أخطاء مسح: «phy¬ sical» كلمة مقطوعة، «Otto* man» انقسام بعلامة شاردة، «considera¬ tions» كلمة مقطوعة | تُصحَّح | - |
+| ANOM-0039 | U0018 | ترويسات: «Ger??iany prefers War. 63» (Germany→Ger??iany) و«64 The Path which led to War.» و«to Germany prefers War. 65» | تُحذَف | - |
+| ANOM-0040 | U0018 | أخطاء مسح: «the brench naval ports» = the French، «time will reveal..» نقطتان، «mis- sive» كلمة مقطوعة، هامش «* See also German, Slav and Magyar...» محفوظ في موضع الإشارة | تُصحَّح | - |
+| ANOM-0041 | U0019 | ترويسات: «E 66 The Path which led to War.» و«68 The Path which led to War.» و«e 2» | تُحذَف | - |
+| ANOM-0042 | U0019 | وصل مقاطع مقطوعة بحرف ¬: «af¬ firmative»، «English¬ men»، «opportu¬ nities»، «re¬ membrance»، «Gate¬ way» | تُصحَّح | - |
+| ANOM-0043 | U0020 | ترويسات: «the Turk. 69» و«70 The Path which led to War.» و«The madness of the Turk. 71» | تُحذَف | - |
+| ANOM-0044 | U0020 | أخطاء مسح: «1 ith August» = 11th؛ مقاطع مقطوعة بحرف ¬: «per¬suasion»، «indigna¬tion»، «in¬tegrity»، «Con¬stantinople»، «sys¬tems» | تُصحَّح | - |
+| ANOM-0045 | U0021 | ترويسات: «72 The Path which led to War.» و«74 The Path which led to War.» و«75 The new Russia turns her back on Constantinople.» | تُحذَف | - |
+| ANOM-0046 | U0021 | أخطاء مسح: «mot even decent government» = not؛ فاصل مقاطع بحرف ¬ في العنوان «Constan¬ TINOPLE»؛ علامة «>» شاردة قبل جواب بلفور | تُصحَّح | - |
+| ANOM-0047 | U0022 | ترويسات: «76 The Path which led to War.» و«78 The Path which led to War.» وترويسة مشوّهة «Britain forced into Mesopota?nia and Palestine. 79» | تُحذَف | - |
+| ANOM-0048 | U0022 | تسمية الصورة «4 The Creek at Basrah. (Described as the Arabian Venice...)» حُوّلت إلى وسم صورة؛ «I9I7*» = ١٩١٧ مع إشارة هامشية؛ مقاطع مقطوعة «Con¬ stantinople»، «calcula¬ tions»، «ex¬ tent» | تُصحَّح | - |
+| ANOM-0049 | U0023 | ترويسات: «Britain forced into Mesopota?nia and Palestine. 79» (مكانه في مطلع الوحدة) و«80 The Path which led to War.» و«82 The Path which led to War.» وحرف «F» شارد | تُحذَف | - |
+| ANOM-0050 | U0023 | أخطاء مسح: «who. in fiercest heat» = who, in؛ تسمية الصورة «Jerusalem from Olivet,» حُوّلت إلى وسم صورة؛ مقاطع مقطوعة «sur¬ rendered»، «sick¬ ness»، «mis¬ rule» | تُصحَّح | - |
+| ANOM-0051 | U0024 | ترويسة «The deliverance of Palestine, Arabia, and Persia. 83» في منتصف الوحدة | تُحذَف | - |
+| ANOM-0052 | U0024 | أخطاء مسح: فاصلة عليا شاردة «interesting ' to note»؛ مقطع مقطوع «residu¬ ary» | تُصحَّح | - |
+| ANOM-0053 | U0025 | ترويسات: «88 The Resurrection of the Jews as a Nation.» و«Zionism and Jewish Colonies. 89»؛ حرف «i» شارد في المطلع | تُحذَف | - |
+| ANOM-0054 | U0025 | أخطاء مسح: «350,OCX)» = 350,000؛ مقاطع مقطوعة بحرف ¬: «dis¬repute»، «anti¬pathies» | تُصحَّح | - |
+| ANOM-0055 | U0026 | ترويسات: «90 The Resurrection of the fews as a Nation.» و«Zionism and fewisk Colonies. 91» و«92 The Resurrection of the Jetvs as a Nation.» (Jews مشوّهة في المسح) | تُحذَف | - |
+| ANOM-0056 | U0026 | مقاطع مقطوعة بحرف ¬: «impres¬sion»، «persecu¬tion»، «assimila¬tion»، «com¬bined»، «over¬planted» | تُصحَّح | - |
+| ANOM-0057 | U0027 | ترويسات: «Zionism and Jewish Colonies. 93» و«94 The Resurrcetion of the Jews as a Nation.» (Resurrection مشوّهة) و«Zionism and Jewish Colonies. 95» | تُحذَف | - |
+| ANOM-0058 | U0027 | أخطاء مسح: «Chamberlain» بلا لقب في أول ذكر؛ مقاطع مقطوعة «Pales¬ tine»، «muni¬cipality»، «kinder¬garten»؛ فاصلة «10 per cent,» الإنجليزية الزائدة | تُصحَّح | - |
+| ANOM-0059 | U0028 | ترويسات: «96 The Resurrection of the fews as a Nation.» و«G» شاردة و«98 The Resurrection of the Jews as a Nation.» | تُحذَف | - |
+| ANOM-0060 | U0028 | أخطاء مسح: «;\£ 100,000» = £100,000؛ مقاطع مقطوعة «pro¬vide»، «muni¬cipal»، «Zion¬ism» | تُصحَّح | - |
+| ANOM-0061 | U0029 | ترويسات: «100 The Resurrection of the Jews as a Nation.» و«Spiritual awakening of the fews. 99» و«Spiritual awakening of the fews. j 01» (أرقام مشوّهة) | تُحذَف | - |
+| ANOM-0062 | U0029 | أخطاء مسح: «since 1881» طُبعت «1981» في ممر المسح الأول؛ مقاطع مقطوعة «Cos¬mopolitan»، «alter¬native»، «Pales¬tine» | تُصحَّح | - |
+| ANOM-0063 | U0030 | ترويسات: «102 The Resurrection of the Jezvs as a Nation.» و«104 The Resurrection of the Jews as a Nation.» و«Mankind being prepared for the Return of the fews. 105» | تُحذَف | - |
+| ANOM-0064 | U0030 | أخطاء مسح: «Chiistians» = Christians؛ فاصلة عليا شاردة بعد «Goodman,»؛ «citizen¬ship» مقطوعة؛ «un¬numbered» مقطوعة | تُصحَّح | - |
+| ANOM-0065 | U0031 | ترويسات: «Mankind being prepared for the Return of the fews. 105» و«The Resurrection of the Jews as a Nation.» و«Mankind being prepared for the Return of the fetes. T07» (T07=107) | تُحذَف | - |
+| ANOM-0066 | U0031 | أخطاء مسح: «enjoy eti» = enjoyed؛ «Herzl s» = Herzl's؛ «io6» = 106؛ «theGentiles» = the Gentiles؛ مقاطع مقطوعة «establi¬shment» و«to¬wards» و«communi¬cation» و«organisat¬ions» | تُصحَّح | - |
+| ANOM-0067 | U0032 | ترويسات: «A Street in Jerusalem.» و«Jerusalem, the centre of human interest. 109» وسطر مقطوع «no Tht Resurrection of the fews as a Nation.» | تُحذَف | - |
+| ANOM-0068 | U0032 | أخطاء مسح: «foi bidden» = forbidden؛ «Psalm ell. 28» فُسِّر مزمور ١٣٣: ١؛ «which' were» فاصلة عليا شاردة؛ «herself..» نقطة مزدوجة؛ توقيع «H 114» | تُصحَّح | - |
+| ANOM-0069 | U0033 | ترويسات: «God as Jerusalem the centre of human interest. ill» (=111) و«The Name of God. 113» مدموجة مع الحاشية | تُحذَف | - |
+| ANOM-0070 | U0033 | أخطاء مسح: «m the third century» = in the third century؛ سطر صورة «A Street in Jerusalem.» متداخل مع جملة النص | تُصحَّح | - |
+| ANOM-0071 | U0034 | ترويسات: «H 114 The Resurrection of the fews as a Nation.» و«The Name of God. "5» (=115) و«h 2 Ii6 The Resurrection of the Jezvs as a Nation.» (توقيع h 2) | تُحذَف | - |
+| ANOM-0072 | U0034 | أخطاء مسح: «45O» = 45؛ «The Lord\ He is the God» علامة شاردة؛ «uncon¬ ditional» مقطوعة | تُصحَّح | - |
+| ANOM-0073 | U0035 | ترويسات: «The Name of God. 117» و«Ii8 The Resurrection of the fews as a Nation.» (=118) | تُحذَف | - |
+| ANOM-0074 | U0035 | أخطاء مسح: «king and. changed» نقطة شاردة؛ «^ It is very significant» علامة شاردة؛ «Ii8» = 118 | تُصحَّح | - |
+| ANOM-0075 | U0036 | ترويسات: «The Name o) God. 119» و«120 The Resurrection of the fews as a Nation.» و«The Name of God. 121» | تُحذَف | - |
+| ANOM-0076 | U0036 | أخطاء مسح: «The Name o) God» = of؛ «"a reproach and a proverb'» علامتا اقتباس غير متطابقتين؛ «con¬founded» مقطوعة | تُصحَّح | - |
+| ANOM-0077 | U0037 | ترويسات: «122 The Resurrection of the Jews as a Nation.» و«The Name of God, 123» | تُحذَف | - |
+| ANOM-0078 | U0037 | أخطاء مسح: «With My servant Moses.will I speak» نقاط شاردة؛ «apparently.and» نقطة شاردة؛ «giye» = give | تُصحَّح | - |
+| ANOM-0079 | U0038 | ترويسات: «124 The Resurrection of the fews as a Nation.» و«The Name of God. 125» و«The Name belongs to a Person. i 127» | تُحذَف | - |
+| ANOM-0080 | U0038 | أخطاء مسح: «Kven» = Even؛ «done this unto this land ?.then» ترقيم مشوّه؛ «fathers.and» نقطة شاردة؛ «(Matt, xxiii. 38-39*)» فاصلة وعلامة شاردة؛ «deso¬ late» مقطوعة؛ «29> 30» = 29, 30 | تُصحَّح | - |
+| ANOM-0081 | U0039 | ترويسات: «128 The Resurrection of the fews as a Nation.» و«The Name belongs to a Person. 129» و«f r r? - 4» رقم صفحة مشوَّه شارد | تُحذَف | - |
+| ANOM-0082 | U0039 | أخطاء مسح: «unmistak¬ able» مقطوعة؛ «lacerated \>y» = by؛ «mansions..1 go» = mansions... I go؛ «more f r r?» شاردة | تُصحَّح | - |
+| ANOM-0083 | U0040 | ترويسات: «132 The Resurrection of the Jews as a Nation.» و«Jesus is The Christ. 133» و«1 2 132» رقم مشوَّه | تُحذَف | - |
+| ANOM-0084 | U0040 | أخطاء مسح: «Plis omnipotence» = His؛ «Moses.will I speak» و«apparently.and» نقاط شاردة؛ «a * condition» نجمة شاردة؛ «con¬ducts» مقطوعة | تُصحَّح | - |
+| ANOM-0085 | U0041 | ترويسات: «The Promise of God to restore the lews. 135» و«136 The Resurrection of the Jews as a Nation.» | تُحذَف | - |
+| ANOM-0086 | U0041 | أخطاء مسح: «(Deut. xxxii 4» نقطة ناقصة (= xxxii. 4)؛ «the coasts of the earth.They» نقطة شاردة؛ «pro¬nouncement» مقطوعة | تُصحَّح | - |
+| ANOM-0087 | U0042 | ترويسات: «The Promise of God to restore the fezvs. 137» و«The Conversion of the fews. 139» وسطر صورة مشوَّه «V Mount of Olives [Photo: Bonfils, * . r.» | تُحذَف | - |
+| ANOM-0088 | U0042 | أخطاء مسح: «intro¬duction» مقطوعة؛ «twice 1,260 years» حساب غريب يُتحقق منه في المراجعة؛ «con¬trite» مقطوعة | تُصحَّح | - |
+| ANOM-0089 | U0043 | ترويسات: «140 The Resurrection of the Jews as a Nation.» | تُحذَف | - |
+| ANOM-0090 | U0043 | أخطاء مسح: «must * not» نجمة شاردة؛ «hedged up» صحيح لكن الجملة مقطوعة عند انتقال الصفحة | تُصحَّح | - |
+| ANOM-0091 | U0044 | ترويسة «The Conversioni of the fezvs. 141» بأخطاء مسح (Conversioni/fezvs) | تُحذَف | - |
+| ANOM-0092 | U0044 | علامة الكرّاس «K 146» وردت وسط نص الصفحة ١٤٦ | تُحذَف | - |
+| ANOM-0093 | U0045 | ترويسات «The Russian Revolution. 149» و«150 Effect of the War on the Nations.» | تُحذَف | - |
